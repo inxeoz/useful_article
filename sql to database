@@ -1,0 +1,3 @@
+
+sql to database
+mariadb -u root -p issue_data < frappe_db_backup.sql
