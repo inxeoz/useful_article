@@ -6,5 +6,5 @@ docker run -d \
   -e MYSQL_PASSWORD=frappe \
   -e MYSQL_DATABASE=frappe \
   -v mariadb_data:/var/lib/mysql \
-  -p 3306:3306 \
+  -p 3307:3306 \
   mariadb:10.6
